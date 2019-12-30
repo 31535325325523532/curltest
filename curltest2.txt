@@ -1,4 +1,4 @@
 coz = smart
-{zach = gay}
+zach=12.12.12.12
 meep = retared
 complex = meh
